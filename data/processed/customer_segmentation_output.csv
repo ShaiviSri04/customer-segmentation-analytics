@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100),Clusters,Segment
+1,0,19,15,39,2,Deal Driven Shoppers
+2,0,21,15,81,2,Deal Driven Shoppers
+3,1,20,16,6,3,Average Customers
+4,1,23,16,77,2,Deal Driven Shoppers
+5,1,31,17,40,2,Deal Driven Shoppers
+6,1,22,17,76,2,Deal Driven Shoppers
+7,1,35,18,6,3,Average Customers
+8,1,23,18,94,2,Deal Driven Shoppers
+9,0,64,19,3,0,Low Priority Customers
+10,1,30,19,72,2,Deal Driven Shoppers
+11,0,67,19,14,0,Low Priority Customers
+12,1,35,19,99,2,Deal Driven Shoppers
+13,1,58,20,15,0,Low Priority Customers
+14,1,24,20,77,2,Deal Driven Shoppers
+15,0,37,20,13,3,Average Customers
+16,0,22,20,79,2,Deal Driven Shoppers
+17,1,35,21,35,3,Average Customers
+18,0,20,21,66,2,Deal Driven Shoppers
+19,0,52,23,29,0,Low Priority Customers
+20,1,35,23,98,2,Deal Driven Shoppers
+21,0,35,24,35,3,Average Customers
+22,0,25,24,73,2,Deal Driven Shoppers
+23,1,46,25,5,0,Low Priority Customers
+24,0,31,25,73,2,Deal Driven Shoppers
+25,1,54,28,14,0,Low Priority Customers
+26,0,29,28,82,2,Deal Driven Shoppers
+27,1,45,28,32,0,Low Priority Customers
+28,0,35,28,61,2,Deal Driven Shoppers
+29,1,40,29,31,0,Low Priority Customers
+30,1,23,29,87,2,Deal Driven Shoppers
+31,0,60,30,4,0,Low Priority Customers
+32,1,21,30,73,2,Deal Driven Shoppers
+33,0,53,33,4,0,Low Priority Customers
+34,0,18,33,92,2,Deal Driven Shoppers
+35,1,49,33,14,0,Low Priority Customers
+36,1,21,33,81,2,Deal Driven Shoppers
+37,1,42,34,17,0,Low Priority Customers
+38,1,30,34,73,2,Deal Driven Shoppers
+39,1,36,37,26,3,Average Customers
+40,1,20,37,75,2,Deal Driven Shoppers
+41,1,65,38,35,0,Low Priority Customers
+42,0,24,38,92,2,Deal Driven Shoppers
+43,0,48,39,36,0,Low Priority Customers
+44,1,31,39,61,2,Deal Driven Shoppers
+45,1,49,39,28,0,Low Priority Customers
+46,1,24,39,65,2,Deal Driven Shoppers
+47,1,50,40,55,0,Low Priority Customers
+48,1,27,40,47,3,Average Customers
+49,1,29,40,42,3,Average Customers
+50,1,31,40,42,3,Average Customers
+51,1,49,42,52,0,Low Priority Customers
+52,0,33,42,60,2,Deal Driven Shoppers
+53,1,31,43,54,3,Average Customers
+54,0,59,43,60,0,Low Priority Customers
+55,1,50,43,45,0,Low Priority Customers
+56,0,47,43,41,0,Low Priority Customers
+57,1,51,44,50,0,Low Priority Customers
+58,0,69,44,46,0,Low Priority Customers
+59,1,27,46,51,3,Average Customers
+60,0,53,46,46,0,Low Priority Customers
+61,0,70,46,56,0,Low Priority Customers
+62,0,19,46,55,3,Average Customers
+63,1,67,47,52,0,Low Priority Customers
+64,1,54,47,59,0,Low Priority Customers
+65,0,63,48,51,0,Low Priority Customers
+66,0,18,48,59,3,Average Customers
+67,1,43,48,50,0,Low Priority Customers
+68,1,68,48,48,0,Low Priority Customers
+69,0,19,48,59,3,Average Customers
+70,1,32,48,47,3,Average Customers
+71,0,70,49,55,0,Low Priority Customers
+72,1,47,49,42,0,Low Priority Customers
+73,1,60,50,49,0,Low Priority Customers
+74,1,60,50,56,0,Low Priority Customers
+75,0,59,54,47,0,Low Priority Customers
+76,0,26,54,54,3,Average Customers
+77,1,45,54,53,0,Low Priority Customers
+78,0,40,54,48,3,Average Customers
+79,1,23,54,52,3,Average Customers
+80,1,49,54,42,0,Low Priority Customers
+81,0,57,54,51,0,Low Priority Customers
+82,0,38,54,55,3,Average Customers
+83,0,67,54,41,0,Low Priority Customers
+84,1,46,54,44,0,Low Priority Customers
+85,1,21,54,57,3,Average Customers
+86,0,48,54,46,0,Low Priority Customers
+87,1,55,57,58,0,Low Priority Customers
+88,1,22,57,55,3,Average Customers
+89,1,34,58,60,3,Average Customers
+90,1,50,58,46,0,Low Priority Customers
+91,1,68,59,55,0,Low Priority Customers
+92,0,18,59,41,3,Average Customers
+93,0,48,60,49,0,Low Priority Customers
+94,1,40,60,40,3,Average Customers
+95,1,32,60,42,3,Average Customers
+96,0,24,60,52,3,Average Customers
+97,1,47,60,47,0,Low Priority Customers
+98,1,27,60,50,3,Average Customers
+99,0,48,61,42,0,Low Priority Customers
+100,0,20,61,49,3,Average Customers
+101,1,23,62,41,3,Average Customers
+102,1,49,62,48,0,Low Priority Customers
+103,0,67,62,59,0,Low Priority Customers
+104,0,26,62,55,3,Average Customers
+105,0,49,62,56,0,Low Priority Customers
+106,1,21,62,42,3,Average Customers
+107,1,66,63,50,0,Low Priority Customers
+108,0,54,63,46,0,Low Priority Customers
+109,0,68,63,43,0,Low Priority Customers
+110,0,66,63,48,0,Low Priority Customers
+111,0,65,63,52,0,Low Priority Customers
+112,1,19,63,54,3,Average Customers
+113,1,38,64,42,3,Average Customers
+114,0,19,64,46,3,Average Customers
+115,1,18,65,48,3,Average Customers
+116,1,19,65,50,3,Average Customers
+117,1,63,65,43,0,Low Priority Customers
+118,1,49,65,59,0,Low Priority Customers
+119,1,51,67,43,0,Low Priority Customers
+120,1,50,67,57,0,Low Priority Customers
+121,0,27,67,56,3,Average Customers
+122,1,38,67,40,3,Average Customers
+123,1,40,69,58,1,Premium Customers
+124,0,39,69,91,1,Premium Customers
+125,1,23,70,29,3,Average Customers
+126,1,31,70,77,1,Premium Customers
+127,0,43,71,35,4,Untapped Potential
+128,0,40,71,95,1,Premium Customers
+129,0,59,71,11,4,Untapped Potential
+130,0,38,71,75,1,Premium Customers
+131,0,47,71,9,4,Untapped Potential
+132,0,39,71,75,1,Premium Customers
+133,1,25,72,34,3,Average Customers
+134,1,31,72,71,1,Premium Customers
+135,0,20,73,5,3,Average Customers
+136,1,29,73,88,1,Premium Customers
+137,1,44,73,7,4,Untapped Potential
+138,0,32,73,73,1,Premium Customers
+139,0,19,74,10,3,Average Customers
+140,1,35,74,72,1,Premium Customers
+141,1,57,75,5,4,Untapped Potential
+142,0,32,75,93,1,Premium Customers
+143,1,28,76,40,3,Average Customers
+144,1,32,76,87,1,Premium Customers
+145,0,25,77,12,3,Average Customers
+146,0,28,77,97,1,Premium Customers
+147,0,48,77,36,4,Untapped Potential
+148,1,32,77,74,1,Premium Customers
+149,1,34,78,22,4,Untapped Potential
+150,0,34,78,90,1,Premium Customers
+151,0,43,78,17,4,Untapped Potential
+152,0,39,78,88,1,Premium Customers
+153,1,44,78,20,4,Untapped Potential
+154,1,38,78,76,1,Premium Customers
+155,1,47,78,16,4,Untapped Potential
+156,1,27,78,89,1,Premium Customers
+157,0,37,78,1,4,Untapped Potential
+158,1,30,78,78,1,Premium Customers
+159,0,34,78,1,4,Untapped Potential
+160,1,30,78,73,1,Premium Customers
+161,1,56,79,35,4,Untapped Potential
+162,1,29,79,83,1,Premium Customers
+163,0,19,81,5,3,Average Customers
+164,1,31,81,93,1,Premium Customers
+165,0,50,85,26,4,Untapped Potential
+166,1,36,85,75,1,Premium Customers
+167,0,42,86,20,4,Untapped Potential
+168,1,33,86,95,1,Premium Customers
+169,1,36,87,27,4,Untapped Potential
+170,0,32,87,63,1,Premium Customers
+171,0,40,87,13,4,Untapped Potential
+172,0,28,87,75,1,Premium Customers
+173,0,36,87,10,4,Untapped Potential
+174,0,36,87,92,1,Premium Customers
+175,1,52,88,13,4,Untapped Potential
+176,1,30,88,86,1,Premium Customers
+177,0,58,88,15,4,Untapped Potential
+178,0,27,88,69,1,Premium Customers
+179,0,59,93,14,4,Untapped Potential
+180,0,35,93,90,1,Premium Customers
+181,1,37,97,32,4,Untapped Potential
+182,1,32,97,86,1,Premium Customers
+183,0,46,98,15,4,Untapped Potential
+184,1,29,98,88,1,Premium Customers
+185,1,41,99,39,4,Untapped Potential
+186,0,30,99,97,1,Premium Customers
+187,1,54,101,24,4,Untapped Potential
+188,0,28,101,68,1,Premium Customers
+189,1,41,103,17,4,Untapped Potential
+190,1,36,103,85,1,Premium Customers
+191,1,34,103,23,4,Untapped Potential
+192,1,32,103,69,1,Premium Customers
+193,0,33,113,8,4,Untapped Potential
+194,1,38,113,91,1,Premium Customers
+195,1,47,120,16,4,Untapped Potential
+196,1,35,120,79,1,Premium Customers
+197,1,45,126,28,4,Untapped Potential
+198,0,32,126,74,1,Premium Customers
+199,0,32,137,18,4,Untapped Potential
+200,0,30,137,83,1,Premium Customers
